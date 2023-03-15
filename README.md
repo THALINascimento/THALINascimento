@@ -2,7 +2,7 @@
 Sou Thali,  que bom  que você veio!
 - 🔭 I’m currently working on : gestão administrativa e comercial em clinica odontológica.
 - 🌱 I’m currently learning :  Front-end: JavaScript, Html. 
-Estou focada no meu desenvolvimento  para transição de carreira, atualmente adiquirindo conhecimentos de forma autodidata, através de cursos e bootcamp
+Estou focada no meu desenvolvimento  para transição de carreira, atualmente adiquirindo conhecimentos de forma autodidata, através de cursos e bootcamp. Aspirante a desenvolvedora.
 
 
 - 📫 How to reach me: ...
