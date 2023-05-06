@@ -1,5 +1,6 @@
-### Hi there 👋
-Sou Thali,  que bom  que você veio!
+###Oláaaaaaaaaa 👋
+sou Thalita,  que bom  que você veio!
+
 - 🔭 Atualmente estou trabalhando em: gestão administrativa e comercial em clinica odontológica.
 - 🌱 Atualmente estou aprendendo: Front-end: JavaScript, Html (Aspirante a desenvolvedora.)
 Estou focada no meu desenvolvimento para transição de carreira, adiquirindo conhecimentos de forma autodidata, através de cursos e bootcamp. 
