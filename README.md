@@ -1,4 +1,4 @@
-###Oláaaaaaaaaa 👋
+## Oláaaaaaaaaa 👋
 sou Thalita,  que bom  que você veio!
 
 - 🔭 Atualmente estou trabalhando em: gestão administrativa e comercial em clinica odontológica.
